@@ -1,0 +1,14 @@
+html, body {
+    padding: 0;
+    margin: 0;
+    font-size: 0;
+}
+
+section {
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    height: 100vh;
+}
